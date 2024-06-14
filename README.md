@@ -12,9 +12,9 @@
     - Download the google-services.json file and place it in the app/ directory of your Android project.
 
 - Steps to Configure OpenWeatherMap
-  1. Sign up for OpenWeatherMap:
-  2. Navigate to the API Keys section to generate a new API key.
-  3. Copy your API key. You'll need this key to authenticate your API requests.
-  4. Add API key to your project:
-     a. Add your OpenWeatherMap API key to .env
+   - Sign up for OpenWeatherMap:
+   - Navigate to the API Keys section to generate a new API key.
+   - Copy your API key. You'll need this key to authenticate your API requests.
+   - Add API key to your project:
+      - Add your OpenWeatherMap API key to .env
   
