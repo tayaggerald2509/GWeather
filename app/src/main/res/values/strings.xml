@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GWeather</string>
+    <string name="title_home">Current Weather</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="label_name">Name</string>
+    <string name="label_username">Username</string>
+    <string name="label_confirm_password">Confirm Password</string>
+    <string name="label_password">Password</string>
+
+    <string name="label_login">Login</string>
+
+    <string name="login_spiel">Welcome to\nGWeather!</string>
+
+    <string name="registration_spiel">Don\'t have an account? <u>Sign Up</u>.</string>
+
+    <string name="label_registration">Registration</string>
+
+    <string name="label_register">Register</string>
+    <string name="back_to_sign_in_page">Go back to <u>Login</u></string>
+    <string name="u2109">%1$d&#xb0;</string>
+
+</resources>
